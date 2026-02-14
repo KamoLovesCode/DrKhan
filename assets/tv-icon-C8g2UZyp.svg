@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="TV icon">
+  <rect x="6" y="14" width="52" height="32" rx="4" fill="#1f2937"/>
+  <rect x="10" y="18" width="44" height="24" rx="2" fill="#60a5fa"/>
+  <rect x="28" y="46" width="8" height="6" fill="#1f2937"/>
+  <rect x="22" y="52" width="20" height="4" rx="2" fill="#1f2937"/>
+  <path d="M24 8 L32 14 L40 8" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
